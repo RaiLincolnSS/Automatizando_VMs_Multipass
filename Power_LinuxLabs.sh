@@ -3,7 +3,7 @@
 #Variaveis
 BASE_NAME=Linux
 
-#N sera referente as maquinas que serao ligadas, para ligar todas, alterar valor para 10
+#N sera referente as maquinas que serao ligadas, para ligar todas, alterar valor para a qauntidade de maquinas.
 #N=4
 
 
